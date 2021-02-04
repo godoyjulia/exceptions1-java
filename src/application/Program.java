@@ -45,9 +45,8 @@ public class Program {
 		catch(RuntimeException e) {
 			System.out.println("Unexpected error");
 		}
-	
-	
 		sc.close();
+		//just testing
+		System.out.println("...");
 	}
-
 }
